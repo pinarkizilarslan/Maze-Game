@@ -10,3 +10,9 @@ The number of golds we collect during the game is shown to us when we reach the 
 - If there are golds we collect them.
 - We stay away from monsters. If we get caught in them we'll get back to the starting.
 - And we are at the end.
+<br />
+
+#### A sample game screenshots:
+
+![1](https://user-images.githubusercontent.com/63308712/112653030-1927ad00-8e5f-11eb-9cff-afbe8dbb7ec1.png)
+![2](https://user-images.githubusercontent.com/63308712/112653053-1d53ca80-8e5f-11eb-96f0-cbd61c8d10dd.png)
